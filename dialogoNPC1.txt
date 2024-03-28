@@ -1,4 +1,5 @@
 Dialogo 1: ¿Como te llamas?
 Dialogo 2: ¿En que salon se cursa Prototipado Digital?
 Dialogo 3: ¿Sabes programar en C#?
-["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
+
